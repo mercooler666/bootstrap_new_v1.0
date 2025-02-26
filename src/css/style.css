@@ -218,5 +218,12 @@ nav {
 .mobile {
   min-height: 864px;
   padding: 48px 0 79px 0;
-  background: url("../img/mobile_bg.png");
+  background: url("../img/mobile_bg.png") center center/center no-repeat;
+}
+
+.mobile_item {
+  width: 320px;
+  height: 280px;
+  margin: 0 auto;
+  opacity: 0.9;
 }
